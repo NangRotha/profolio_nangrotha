@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Project about Coffee",
+    "imageSrc": "projects/Coffeeproject.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "Boostrap"],
+    "demo": "https://nang-rotha-github-io.vercel.app/",
+    "source": "https://github.com/NangRotha/NangRotha.github.io"
+  },
+  {
+    "title": "Project Card",
+    "imageSrc": "projects/cardproject.jpg",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://cart-github-io.vercel.app/",
+    "source": "https://github.com/NangRotha/cart.github.io"
+  }
+ 
+]
